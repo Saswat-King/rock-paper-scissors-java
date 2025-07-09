@@ -1,6 +1,5 @@
 # 🪨📄✂️ Rock Paper Scissors Game (Java)
-A simple and fun **console-based Rock, Paper, Scissors game** built in **Java**.  
-Play against the computer for 5 rounds, with real-time input validation and score tracking.
+A simple and fun **console-based Rock, Paper, Scissors game** built in **Java**. Play against the computer for 5 rounds, with real-time input validation and score tracking.
 
 ---
 Add visual demos of Rock Paper Scissors
