@@ -48,13 +48,17 @@ javac RockPaperScissors.java
 java RockPaperScissors
 ```
 
-
+---
 
 ### 🎨 Updated Version – Now with Emoji UI & Enhanced Console Experience!
 
 > This version brings a more fun and engaging user interface using emojis, better prompts, and an overall polished look. Check out the upgraded gameplay in action below! 🎮✨
 
-▶ [Watch the UI Preview](https://github.com/Saswat-King/rock-paper-scissors-java/issues/1#issue-3215427635)
+https://github.com/user-attachments/assets/a2f7f7c0-6fb3-4b0c-825e-ea7e0e235125
+
+
+
+
 
 
 
