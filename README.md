@@ -54,6 +54,7 @@ java RockPaperScissors
 
 > This version brings a more fun and engaging user interface using emojis, better prompts, and an overall polished look. Check out the upgraded gameplay in action below! 🎮✨
 
+▶ [Watch the UI Preview](https://github.com/Saswat-King/rock-paper-scissors-java/issues/1#issue-3215427635)
 
 
 
